@@ -1,0 +1,6 @@
+@MyCronJob.Worker_HostAddress = http://localhost:5211
+
+GET {{MyCronJob.Worker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
