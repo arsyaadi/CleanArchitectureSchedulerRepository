@@ -49,14 +49,6 @@ To use the CronJob Scheduler:
 2. Run and monitor scheduled jobs to ensure they execute as expected.
 3. Customize and extend the application as needed for your specific use case.
 
-## Contributing
-
-Contributions to the project are welcome! Please submit bug reports, feature requests, and pull requests following our contribution guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Quartz.NET: https://www.quartz-scheduler.net/
